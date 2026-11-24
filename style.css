@@ -1,0 +1,33 @@
+/*
+
+Bakgrund: #FBF7F2 (varm vit)
+Text: #2B2118 (mörkbrun)
+Accent (knappar, länkar, priser): #B5502B (terrakotta)
+Accent mörk (hover): #8F3E20
+Grön (etiketter, bekräftelse): #5E7F5A
+Ljus ruta: #F1E8DC
+Kort: vit med 1 px ram #E6DCCF, hörnradie 12 px
+Fel: #C0392B
+Rubriker: Georgia, serif
+Brödtext: system-ui / Helvetica / Arial, 18 px, radavstånd 1,6
+Max innehållsbredd: 1100 px, centrerad, 24 px marginal i sidled
+Knapp: accentfärg, vit text, 12 px / 24 px padding, hörnradie 8 px
+Brytpunkt mobil: under 700 px
+
+snake-case background-colour
+camelCase backgroundColor
+
+/*
+
+body {
+background-colour: #FBF7F2 
+color: #2B2118 
+font-family: system-ui, Helvetica, Arial, sanseriff
+line-height: 1,6
+
+}
+
+h1, h2 {
+font-family: Georgia, serif, sanseriff
+
+}
